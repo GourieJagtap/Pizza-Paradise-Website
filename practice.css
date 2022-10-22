@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+.pizza{
+    height:50px;
+    width: 50px;
+}
+.pizza-p{
+    font-family: 'Lobster', cursive;
+}
+body{
+    background-image:url("images/pizza-bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.del{
+    font-family: 'Teko', sans-serif;
+}
+span{
+    background-color: rgba(248, 248, 248, 0.555)
+}
+.del p {
+    font-family: 'Amatic SC', cursive;
+    color: #fff;
+    background-color:rgba(31, 29, 29, 0.5);
+    font-weight: bold;
+    word-spacing: 4px;
+}
+
